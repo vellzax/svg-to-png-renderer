@@ -1,0 +1,1 @@
+function render(svg) { return Buffer.from(svg); } module.exports = { render };
